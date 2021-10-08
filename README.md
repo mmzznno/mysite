@@ -1,2 +1,2 @@
 # mysite
-Djangoの学習用
+テスト用
